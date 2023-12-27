@@ -1,3 +1,19 @@
+<a href='https://chat.whatsapp.com/EjCevQuz0IBIlfUUYLPEB4' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<p align="center">
+  <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
+    <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/oNckzkC.jpg">
+  </a>
+</p>
+   <p align="center">
+  <a href="https://wa.me//+2347045035241" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+  </a>
+   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+   </p>
+<p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 -How to deploy a WhatsApp bot
 First of all You need a WhatsApp account... 
 Then  u need a pc or two phones
