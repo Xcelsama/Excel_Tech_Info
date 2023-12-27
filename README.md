@@ -27,7 +27,7 @@ First create a yahoo account :
 
 -https://www.bing.com/search?q=yahoo+mail+create+account&PC=U316&FORM=CHROMN
 
-When done Download sales force authenticator
+-When done Download sales force authenticator
 
 -https://www.bing.com/search?q=salesforce+authenticator&qs=SC&pq=sales+force+autte&sc=6-17&cvid=F83C958C2D6D4451BE357C85EC49CF75&FORM=QBRE&sp=1&lq=0
 
