@@ -101,6 +101,26 @@ Put ur number as sudo
 As theme type GOKU in Capital letter
 Work type: public allows others to use, but private only u can use it
 Then tap deploy
+Go to WhatsApp type.menu
+<p align="center">ℹ️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
+  <a
+ href="https://wa.me//+2347045035241"></a>
+</p>
+<p align="center">
+  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Whatsapp-363303?style=for-the-badge&logo=whatsapp&logoColor=c6c631"></img>
+<p align="center">
+
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
+
+   <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+  </a>
+
+<a aria-label="Join our chats" href="https://wa.me/2347045035241?text=Hi!! Excel, I need Your Help" target="_blank">
+
+   <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
 
 https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X
 https://gdpd.xyz/exxcel 
