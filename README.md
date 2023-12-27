@@ -1,15 +1,21 @@
-How to deploy a WhatsApp bot
+-How to deploy a WhatsApp bot
 First of all You need a WhatsApp account... 
 Then  u need a pc or two phones
 The phone used to scan is the one your gonna have the bot on... 
 You'll need this things below
 I'm gonna use heroku to teach you how to do it. 
 First create a yahoo account :
+
 -https://www.bing.com/search?q=yahoo+mail+create+account&PC=U316&FORM=CHROMN
+
 When done Download sales force authenticator
+
 -https://www.bing.com/search?q=salesforce+authenticator&qs=SC&pq=sales+force+autte&sc=6-17&cvid=F83C958C2D6D4451BE357C85EC49CF75&FORM=QBRE&sp=1&lq=0
+
 Then Download Github
+
 -https://www.bing.com/search?q=github+create+account&PC=U316&FORM=CHROMN
+
 Create an account
 Then Go to heroku create account
 Add ur email
